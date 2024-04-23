@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(168, 168, 235);
+}
+#monlogo{
+    height: 80
+px;
+}
+.texte-gras {
+    font-weight: bold;
+
+}
