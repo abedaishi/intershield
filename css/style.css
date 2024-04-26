@@ -4,6 +4,61 @@
     height: 70px;
 }
 
+#secu{
+    height: 300px;
+    align-content: center;
+}
+body{
+    background-color: #ffffff;
+    text-align: center;
+    height: 100vh;
+}
+
 .navbar-menu{
-    color: 140454; 
+   background-color: #140454;
+    
+  }
+  .button is-medium2 {
+    background-color: #140454;
+  }
+
+.navbar-item{
+    color: #ffffff;
+  }
+
+.gras{
+    font-weight: bold;
+    
+ }
+ .display:block{
+   text-align: left;
+ }
+
+.footer2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #140454;
+}
+.groupe-profile {
+  background: linear-gradient(to right, #140454, #140454);
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  display: flex; 
+  align-items: center; 
+}
+.staff-name {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.staff-description {
+  font-size: 14px; 
+  margin-left: 20px; 
+  max-width: 400px; /
+}
+.staff-image {
+  width: 80px; /* Définir la largeur de l'image */
+  margin-right: 20px; 
   }
